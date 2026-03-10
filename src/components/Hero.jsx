@@ -20,7 +20,7 @@ const Hero = () => {
               initial={{ opacity: 0, scale: 0.9 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 1, delay: 0.2 }}
-              className="text-6xl md:text-8xl font-black leading-tight mb-8 bg-gradient-to-r from-neutral-900 via-neutral-800 to-neutral-600 bg-clip-text text-transparent"
+              className="text-6xl md:text-8xl font-black leading-tight mb-8 bg-gradient-to-r from-neutral-900 via-neutral-800 to-neutral-600 dark:from-white dark:via-purple-400 dark:to-emerald-400 bg-clip-text text-transparent"
             >
               Hello.
             </motion.h1>

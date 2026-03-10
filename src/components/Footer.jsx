@@ -29,13 +29,13 @@ const Footer = () => {
             transition={{ delay: 0.2 }}
             className="flex gap-6 text-sm text-neutral-500"
           >
-            <a href="mailto:your.email@example.com" className="hover:text-perplexity-400 transition-colors">
+            <a href="mailto:sampatianvekar@gmail.com" className="hover:text-perplexity-400 transition-colors">
               Email
             </a>
-            <a href="https://github.com/yourusername" className="hover:text-perplexity-400 transition-colors">
+            <a href="https://github.com/sampatianvekar" className="hover:text-perplexity-400 transition-colors">
               GitHub
             </a>
-            <a href="https://linkedin.com/in/yourprofile" className="hover:text-perplexity-400 transition-colors">
+            <a href="https://www.linkedin.com/in/sampati-anvekar/" className="hover:text-perplexity-400 transition-colors">
               LinkedIn
             </a>
           </motion.div>
