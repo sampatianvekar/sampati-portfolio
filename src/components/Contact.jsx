@@ -49,7 +49,7 @@ const Contact = () => {
           className="flex flex-col sm:flex-row gap-6 justify-center"
         >
           <a
-            href="sampatianvekar@gamil.com"
+            href="mailto:sampatianvekar@gmail.com"
             className="px-8 py-4 border-2 border-neutral-200 rounded-full text-xl font-medium hover:border-perplexity-300 hover:text-perplexity-300 hover:shadow-xl transition-all duration-300 group hover:-translate-y-1"
           >
             sampatianvekar@gmail.com
