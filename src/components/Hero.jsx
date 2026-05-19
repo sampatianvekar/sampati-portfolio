@@ -143,7 +143,7 @@ const Hero = () => {
 
             {/* PDF Preview */}
             <iframe
-              src="/SampatiAnvekar(Resume).pdf"
+              src="/SampatiAnvekar_Resume.pdf"
               className="w-full h-[70vh] md:h-[75vh] rounded-2xl border-4 border-gray-200 shadow-inner"
               title="Sampati Anvekar Resume"
             />
