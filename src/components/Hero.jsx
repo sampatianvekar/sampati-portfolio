@@ -124,8 +124,8 @@ const Hero = () => {
               <div className="flex gap-4">
                 {/* Download Button */}
                 <a
-                  href="/SampatiAnvekar(Resume).pdf"
-                  download="SampatiAnvekar(Resume).pdf"
+                  href="/SampatiAnvekar_Resume.pdf"
+                  download="SampatiAnvekar_Resume.pdf"
                   className="px-6 py-3 bg-emerald-500 hover:bg-emerald-600 text-white font-bold rounded-xl shadow-lg hover:shadow-xl transition-all flex items-center gap-2"
                 >
                   💾 Download PDF
